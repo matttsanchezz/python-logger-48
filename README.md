@@ -1,2 +1,4 @@
-# python-logger-48
+# Python Logger 48
+
 A simple logging class in Python.
+
